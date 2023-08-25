@@ -8,7 +8,17 @@
 
 
 
-## Guiding Questions
+## Guiding Variables over the Sale Price
+
+The main quest of this work is to identify which variables are the most influential over the house price. For this purpose we must propose the parameters that we think have the greatest impact over our dependent variable 'SalePrice' and test them during the data analysis.
+
+Spatial variables
+- 'TotalBsmtSF': Area of the basement
+- 'GrLivArea': Total area of living space in the house
+
+Construction variables
+- 'OverallQual': Overall quality of the construction materials and the final design of the house
+- 'YearBuilt': Year in which the house was built
 
 
 
