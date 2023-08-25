@@ -18,12 +18,12 @@ Spatial variables
 
 Construction variables
 - 'OverallQual': Overall quality of the construction materials and the final design of the house
-- 'YearBuilt': Year in which the house was built
+- 'YearBuilt': The year in which the house was built
 
 
 
 ## Data Analysis
 
-As the tool used for this exploratory data analysis has been the Jupyter Notebook; the documentation has been done throughout the notebook, alongside the calculations and graphs. Like that we take advantage of the key feature of Jupyter Notebooks, gathering all the tasks of the data analysis (calculations, visualization, and documentation) in a single file. So please head to House Pricing in California_Data Analysis with Pandas.ipynb.
+The tool used for this exploratory data analysis has been the Jupyter Notebook; the documentation has been done throughout the notebook, alongside the calculations and graphs. Like that we take advantage of the key feature of Jupyter Notebooks, gathering all the tasks of the data analysis (calculations, visualization, and documentation) in a single file. So please head to House Pricing in California_Data Analysis with Python.ipynb.
 
 ## Conclusions
