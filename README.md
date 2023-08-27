@@ -33,7 +33,7 @@ Construction variables
 
 ## Data Analysis
 
-The tool used for this exploratory data analysis has been the Jupyter Notebook; the documentation has been done throughout the notebook, alongside the calculations and graphs. Like that we take advantage of the key feature of Jupyter Notebooks, gathering all the data analysis tasks (calculations, visualization, and documentation) in a single file. So please head to House Pricing in California_Data Analysis with Python.ipynb.
+The tool used for this exploratory data analysis has been the Jupyter Notebook; the documentation has been done throughout the notebook, alongside the calculations and graphs. Like that we take advantage of the key feature of Jupyter Notebooks, gathering all the data analysis tasks (calculations, visualization, and documentation) in a single file. So please head to [House Pricing in California_Data Analysis with Python.ipynb](https://github.com/AlvaroM99/Python---House-Pricing-in-California-Analysis/blob/main/House%20Pricing%20in%20California__Data%20analysis%20with%20Python.ipynb).
 
 ## Conclusions
 
