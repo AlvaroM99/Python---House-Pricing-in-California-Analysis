@@ -3,7 +3,6 @@
 ## Index
 
 - [Overview](https://github.com/AlvaroM99/Python---House-Pricing-in-California-Analysis/tree/main#overview)
-- [Dataset](https://github.com/AlvaroM99/Python---House-Pricing-in-California-Analysis/tree/main#dataset)
 - [Guiding Variable over the Sale Price](https://github.com/AlvaroM99/Python---House-Pricing-in-California-Analysis/tree/main#guiding-variables-over-the-sale-price)
 - [Data Analysis](https://github.com/AlvaroM99/Python---House-Pricing-in-California-Analysis/tree/main#data-analysis)
 - [Conclusions](https://github.com/AlvaroM99/Python---House-Pricing-in-California-Analysis/tree/main#conclusions)
@@ -12,8 +11,6 @@
 ## Overview
 
 
-
-## Dataset
 
 
 
