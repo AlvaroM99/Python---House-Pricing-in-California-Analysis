@@ -10,7 +10,7 @@
 
 ## Overview
 
-
+Despite cyclical recessions, often caused by the real estate market, this continues to be a succulent market. Although the brick crises undermined the belief that a house is a safe investment, investors continue to have confidence in this product. For this reason, housing prices have maintained an upward trend since records began. Therefore, in order to predict property prices, this data analysis focuses on finding the factors that most influence housing prices in California.
 
 
 
